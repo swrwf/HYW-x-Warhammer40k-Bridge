@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "warhammer40kmod:ceramite_armor_leggings"
+    },
+    {
+      "item": "warhammer40kmod:plasteel_ingot",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "warhammer40kmod:tyranid_marine_armor_leggings",
+    "count": 1
+  }
+}

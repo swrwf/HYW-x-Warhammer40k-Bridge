@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "warhammer40kmod:chain_sword",
+    "warhammer40kmod:combat_knife",
+    "warhammer40kmod:combat_sword",
+    "warhammer40kmod:transonic_sword",
+    "warhammer40kmod:blood_letter_sword",
+    "warhammer40kmod:blue_chainsword",
+    "warhammer40kmod:hypherphase_sword",
+    "warhammer40kmod:tau_plasma_sword",
+    "warhammer40kmod:eldar_ghost_sword",
+    "warhammer40kmod:adamantium_sword",
+    "warhammer40kmod:scraps_sword",
+    "warhammer40kmod:necrodermis_sword",
+    "warhammer40kmod:wraith_bones_sword",
+    "warhammer40kmod:tyranid_bone_sword",
+    "warhammer40kmod:necron_destroyer_sword",
+    "warhammer40kmod:tau_combat_knife",
+    "warhammer40kmod:power_sword",
+    "warhammer40kmod:witch_power_sword",
+    "warhammer40kmod:eldar_sword",
+    "warhammer40kmod:power_sword_gino",
+    "warhammer40kmod:combar_knife_gino",
+    "warhammer40kmod:overlord_blade"
+  ]
+}

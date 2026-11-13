@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "warhammer40kmod:mechanicus_axe",
+    "warhammer40kmod:chain_axe",
+    "warhammer40kmod:ork_choppa",
+    "warhammer40kmod:ork_axe_choppa",
+    "warhammer40kmod:ork_crude_axe",
+    "warhammer40kmod:tyranid_axe",
+    "warhammer40kmod:plasteel_axe",
+    "warhammer40kmod:chaos_axe",
+    "warhammer40kmod:chaos_axe_2",
+    "warhammer40kmod:adamantium_axe",
+    "warhammer40kmod:scraps_axe",
+    "warhammer40kmod:necrodermis_axe",
+    "warhammer40kmod:wraith_bones_axe",
+    "warhammer40kmod:tau_axe",
+    "warhammer40kmod:carcharadon_axe"
+  ]
+}

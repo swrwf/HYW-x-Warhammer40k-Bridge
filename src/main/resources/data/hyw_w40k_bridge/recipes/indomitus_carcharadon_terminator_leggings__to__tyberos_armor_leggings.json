@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "warhammer40kmod:indomitus_carcharadon_terminator_leggings"
+    },
+    {
+      "item": "warhammer40kmod:adamantium_ingot",
+      "count": 2
+    }
+  ],
+  "result": {
+    "item": "warhammer40kmod:tyberos_armor_leggings",
+    "count": 1
+  }
+}

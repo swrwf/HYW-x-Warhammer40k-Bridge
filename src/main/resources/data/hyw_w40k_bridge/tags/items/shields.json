@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "warhammer40kmod:necron_shield",
+    "warhammer40kmod:ork_shield",
+    "warhammer40kmod:tau_shield",
+    "warhammer40kmod:storm_shield",
+    "warhammer40kmod:chaos_shield",
+    "warhammer40kmod:imperial_shield",
+    "warhammer40kmod:carcharadon_shield",
+    "warhammer40kmod:tyranid_shield"
+  ]
+}

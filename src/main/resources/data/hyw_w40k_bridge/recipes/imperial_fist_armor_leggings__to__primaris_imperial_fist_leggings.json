@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "warhammer40kmod:imperial_fist_armor_leggings"
+    },
+    {
+      "item": "warhammer40kmod:ceramite_bar",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "warhammer40kmod:primaris_imperial_fist_leggings",
+    "count": 1
+  }
+}

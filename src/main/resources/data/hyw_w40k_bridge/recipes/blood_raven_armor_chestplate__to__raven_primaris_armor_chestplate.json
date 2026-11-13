@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "warhammer40kmod:blood_raven_armor_chestplate"
+    },
+    {
+      "item": "warhammer40kmod:ceramite_bar",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "warhammer40kmod:raven_primaris_armor_chestplate",
+    "count": 1
+  }
+}

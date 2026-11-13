@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "warhammer40kmod:carcharadon_armor_chestplate"
+    },
+    {
+      "item": "warhammer40kmod:adamantium_ingot",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "warhammer40kmod:indomitus_carcharadon_terminator_chestplate",
+    "count": 1
+  }
+}

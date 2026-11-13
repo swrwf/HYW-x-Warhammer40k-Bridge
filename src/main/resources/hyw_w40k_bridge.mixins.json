@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "com.hyww40k.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "minVersion": "0.8",
+  "mixins": [
+    "WeaponTypeHelperMixin",
+    "BaseCombatEntityTargetMixin",
+    "Wh40kMobRetaliateMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

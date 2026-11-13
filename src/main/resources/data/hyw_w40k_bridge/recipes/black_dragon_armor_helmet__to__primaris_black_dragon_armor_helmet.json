@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "warhammer40kmod:black_dragon_armor_helmet"
+    },
+    {
+      "item": "warhammer40kmod:ceramite_bar",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "warhammer40kmod:primaris_black_dragon_armor_helmet",
+    "count": 1
+  }
+}

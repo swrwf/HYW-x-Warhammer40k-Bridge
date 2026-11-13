@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "warhammer40kmod:dark_angel_armor_boots"
+    },
+    {
+      "item": "warhammer40kmod:plasteel_plate",
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "warhammer40kmod:gravis_dark_angel_boots",
+    "count": 1
+  }
+}

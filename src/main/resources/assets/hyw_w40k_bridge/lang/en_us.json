@@ -1,0 +1,11 @@
+{
+  "key.hyww40k.attack_screen": "Attack Select",
+  "key.categories.hyww40k": "HYW x Warhammer40k Bridge",
+  "screen.hyww40k.attack": "Attack Select",
+  "screen.hyww40k.attack_all": "Command Attack",
+  "screen.hyww40k.cancel_all": "Cancel Hostility",
+  "screen.hyww40k.select_all": "All",
+  "screen.hyww40k.deselect_all": "None",
+  "screen.hyww40k.faction_multi": "Target factions (multi-select)",
+  "screen.hyww40k.unified": "All your soldiers will obey"
+}

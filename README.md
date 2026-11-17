@@ -1,6 +1,6 @@
 # HYW × Warhammer40k Bridge (hyw_w40k_bridge)
 
-一个让 **百年战争（Hundred Years War / HYW）** 与 **战锤40k（Warhammer 40k）** 联动的 Forge 附属 mod。
+一个让 **百年战争（Hundred Years War / HYW）** 与 **战锤40k（Hammercraft 40k）** 联动的 Forge 附属 mod。
 
 A Forge addon mod that bridges **Hundred Years War (HYW)** and **Warhammer 40k**.
 
